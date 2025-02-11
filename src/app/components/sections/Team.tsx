@@ -96,7 +96,7 @@ export const Team = () => {
                 height={64}
                 alt=""
                 // className={`${styles.teamMember} rounded-full border-2 border-black transition-[margin] hover:-mr-2 hover:ml-2`}
-                className={`${styles.teamMember} rounded-full border-2 border-black`}
+                className={`${styles.teamMember} rounded-full border-2 border-black bg-black`}
                 loading="lazy"
               />
             </div>

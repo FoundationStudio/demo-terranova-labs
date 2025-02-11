@@ -28,7 +28,8 @@ export const Images = ({
             src={item.img}
             width={160}
             height={24}
-            alt={item.title}
+            // alt={item.title}
+            alt=""
             data-image
             className="h-12 max-h-auto w-auto max-w-32 object-contain text-right select-none"
             style={{ color: "inherit" }}

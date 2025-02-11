@@ -1,6 +1,6 @@
 # Demo Page
 
-This is a demo website for a not existing company with a custom theme.
+This is a demo website with a custom theme for a not existing company.
 
 &copy; 2025 Foundation Studio
 
