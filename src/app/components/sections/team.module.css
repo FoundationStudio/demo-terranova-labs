@@ -1,0 +1,6 @@
+.teamMember:first-of-type:hover {
+  margin-left: 0;
+}
+.teamMember:last-of-type:hover {
+  margin-right: 0;
+}
