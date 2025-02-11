@@ -19,8 +19,7 @@ const geistMono = Geist_Mono({
 // Set metadata
 export const metadata: Metadata = {
   title: "TerraNova Labs",
-  description:
-    "We believe in the transformative power of cryptocurrency and decentralization.",
+  description: "Revolutionizing how we build, power and connect The World.",
   robots: "noindex, nofollow",
 };
 
